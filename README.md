@@ -54,7 +54,7 @@ Data Structures & Algorithms, Product Management I & II, Calculus I–II, Linear
 Java · Python · JavaScript · HTML · CSS · C++ · GDScript  
 
 **Frameworks & Tools:**  
-React · React Native · Node.js · GitHub · GitLab · Figma · Godot  
+React · React Native · Node.js · Figma · Godot  
 AutoCAD · Autodesk Inventor  
 
 **Languages (Human):**  
@@ -62,62 +62,22 @@ Yoruba (Fluent) · Pidgin (Fluent)
 
 ---
 
-## 🌱 I'm currently learning
-
-<p>
-  <a href="https://www.duolingo.com/profile/DaraAjiboye1" style="display: inline-block; background-color: #303030; text-decoration: none; padding: 12px; border-radius: 3px; margin-right: 10px; vertical-align: middle;">
-    <img src="./assets/icon logos/duolingospanish.png" alt="Duolingo Spanish" style="width: 40px; height: 40px; display: block;" />
-  </a>
-  <a href="https://www.chess.com/member/daraajiboye" style="display: inline-block; background-color: #303030; text-decoration: none; padding: 12px; border-radius: 3px; margin-right: 10px; vertical-align: middle;">
-    <img src="./assets/icon logos/duolingochess.png" alt="Chess" style="width: 40px; height: 40px; display: block;" />
-  </a>
+<p align="center">
+  <img src="./assets/icon logos/Stack.png" alt="Tech Stack" width="100%" />
 </p>
 
 ---
-## 🛠️ Technical Projects
 
-### **StayAble** — AI-Powered Accessibility Platform  
-*Product Design · AI Integration · UX Research*  
-**October 2025**
+## 🌱 I'm currently learning
 
-- Built an AI-driven accessibility platform improving short-term rental discovery for travelers with disabilities  
-- Increased home-match accuracy by **25%** and reduced search time by **30%**  
-- Designed an LLM-powered roadmap enabling personalized filters and automated image-based accessibility verification  
-- Improved SEO visibility and user engagement by **20%**
-
----
-
-### **StatDex** — Real-Time Pokémon Stats Search Engine
-*Java · GitHub · MATLAB*  
-**May 2025**
-
-- Built a high-performance Java application indexing **1,400+ Pokémon entries**  
-- Supported O(1) exact-match queries, range filters, and statistical aggregations  
-- Implemented HashMaps and PriorityQueues for optimized querying  
-- Wrote **15+ unit tests** with modular, extensible architecture
-
----
-
-## 💼 Professional Experience
-
-### **Software Engineering Intern**  
-**Duke University IT Security Office (ITSO)** — Durham, NC  
-*May 2025 – July 2025*
-
-- Developed *Operation: Screen Saver*, a gamified cybersecurity education platform  
-- Improved system efficiency by **73%** through core feature optimization  
-- Designed interactive challenges (escape rooms, phishing simulations, 2FA puzzles)  
-- Contributed to open-source cybersecurity education resources
-
----
-
-### **Engineering Fellow Intern**  
-**The Takeoff Institute** — Remote  
-*May 2025 – July 2025*
-
-- Selected as **1 of 50 fellows nationwide**  
-- Designed scalable, accessibility-focused database architecture  
-- Completed an 8-week capstone on startup operations and technical strategy
+<p>
+  <a href="https://www.duolingo.com/profile/DaraAjiboye1" style="display: inline-block; background-color: transparent; text-decoration: none; padding: 12px; border-radius: 3px; margin-right: 10px; vertical-align: middle;">
+    <img src="./assets/icon logos/duolingospanish.png" alt="Duolingo Spanish" style="height: 28px; width: auto; display: block;" />
+  </a>
+  <a href="https://www.chess.com/member/daraajiboye" style="display: inline-block; background-color: transparent; text-decoration: none; padding: 12px; border-radius: 3px; margin-right: 10px; vertical-align: middle;">
+    <img src="./assets/icon logos/duolingochess.png" alt="Chess" style="height: 28px; width: auto; display: block;" />
+  </a>
+</p>
 
 ---
 
