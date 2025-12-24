@@ -8,21 +8,17 @@
 
 <!-- Social badges -->
 <p>
-  <a href="mailto:ajiboyedara2@gmail.com" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
-    <img src="./assets/icon logos/Gmail_Logo_512px.png" alt="Email" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
-    Email
+  <a href="mailto:ajiboyedara2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-303030?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://github.com/AjiboyeDara/AjiboyeDara" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
-    <img src="./assets/icon logos/github_icon.png" alt="GitHub" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
-    GitHub
+  <a href="https://github.com/AjiboyeDara/AjiboyeDara">
+    <img src="https://img.shields.io/badge/GitHub-303030?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
-    <img src="./assets/icon logos/LinkedIn_icon.png" alt="LinkedIn" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
-    LinkedIn
+  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/">
+    <img src="https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/dara.ajiboye" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
-    <img src="./assets/icon logos/Instagram_icon.png" alt="Instagram" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
-    Instagram
+  <a href="https://instagram.com/dara.ajiboye">
+    <img src="https://img.shields.io/badge/Instagram-303030?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
 
