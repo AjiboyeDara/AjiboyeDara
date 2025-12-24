@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github_banner.png" alt="Oluwadarasimi Ajiboye | Computer Science @ Duke" width="100%" />
+</p>
+
 <h1 align="left">Hi there 👋, I'm Oluwadarasimi Ajiboye</h1>
 
 <!-- Social badges -->
@@ -15,6 +19,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
