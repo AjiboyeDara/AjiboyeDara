@@ -6,17 +6,21 @@
 
 <!-- Social badges -->
 <p>
-  <a href="mailto:ajiboyedara2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajiboyedara2%40gmail.com-yellow"/>
+  <a href="mailto:ajiboyedara2@gmail.com" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s;">
+    <img src="./assets/icon logos/Gmail_Logo_512px.png" alt="Email" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    Email
   </a>
-  <a href="https://github.com/AjiboyeDara/AjiboyeDara">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+  <a href="https://github.com/AjiboyeDara/AjiboyeDara" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s;">
+    <img src="./assets/icon logos/github_icon.png" alt="GitHub" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    GitHub
   </a>
-  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s;">
+    <img src="./assets/icon logos/LinkedIn_icon.png" alt="LinkedIn" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    LinkedIn
   </a>
-  <a href="https://instagram.com/dara.ajiboye">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/dara.ajiboye" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s;">
+    <img src="./assets/icon logos/Instagram_icon.png" alt="Instagram" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    Instagram
   </a>
 </p>
 
