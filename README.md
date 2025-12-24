@@ -8,24 +8,28 @@
 
 <!-- Social badges -->
 <p>
-  <a href="mailto:ajiboyedara2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-303030?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  <a href="mailto:ajiboyedara2@gmail.com" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
+    <img src="./assets/icon logos/Gmail_Logo_512px.png" alt="Email" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    Email
   </a>
-  <a href="https://github.com/AjiboyeDara/AjiboyeDara">
-    <img src="https://img.shields.io/badge/GitHub-303030?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <a href="https://github.com/AjiboyeDara/AjiboyeDara" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
+    <img src="./assets/icon logos/github_icon.png" alt="GitHub" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    GitHub
   </a>
-  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/">
-    <img src="https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/oluwadarasimi-ajiboye/" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
+    <img src="./assets/icon logos/LinkedIn_icon.png" alt="LinkedIn" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    LinkedIn
   </a>
-  <a href="https://instagram.com/dara.ajiboye">
-    <img src="https://img.shields.io/badge/Instagram-303030?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  <a href="https://instagram.com/dara.ajiboye" style="display: inline-block; background-color: #303030; color: #ffffff; text-decoration: none; padding: 24px 36px; border-radius: 3px; font-size: 22px; font-weight: 600; margin-right: 15px; vertical-align: middle; line-height: 1.5; transition: opacity 0.2s; font-family: 'Bebas Neue', sans-serif;">
+    <img src="./assets/icon logos/Instagram_icon.png" alt="Instagram" style="width: 28px; height: 28px; vertical-align: middle; margin-right: 12px; display: inline-block;" />
+    Instagram
   </a>
 </p>
 
 ---
 ## 👤 About Me
 
-My name is Oluwadarasimi Ajiboye, but I go by Dara. I'm a Computer Science student at Duke University, also pursuing a certificate in Innovation and Entrepreneurship. I was born in Lagos, Nigeria, and moved to the U.S. at nine, an experience that shaped my curiosity and adaptability. I'm passionate about the intersection of product development and business, building solutions that make a real impact. At my core, I'd describe myself as energetic, communicative, and growth-driven. I thrive in collaborative environments, love learning from others, and I'm eager to apply my technical skills and product mindset to create meaningful, real-world solutions.
+My name is Oluwadarasimi Ajiboye, but I go by Dara. I'm a Computer Science student at Duke University, also pursuing a certificate in Innovation and Entrepreneurship. I was born in Lagos, Nigeria, and moved to the U.S. at nine, an experience that shaped my curiosity and adaptability. I'm passionate about the intersection of product development and business, building solutions that make a real impact. At my core, I'd describe myself as energetic, communicative, and growth-driven. I thrive in collaborative environments, love learning from others, and I'm eager to apply my technical skills and product mindset to create meaningful, real-world solutions.🇳🇬🇺🇸
 
 ---
 
