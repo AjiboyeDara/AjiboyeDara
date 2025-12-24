@@ -60,8 +60,6 @@ AutoCAD · Autodesk Inventor
 **Languages (Human):**  
 Yoruba (Fluent) · Pidgin (Fluent)
 
----
-
 <p align="center">
   <img src="./assets/icon logos/Stack.png" alt="Tech Stack" width="100%" />
 </p>
